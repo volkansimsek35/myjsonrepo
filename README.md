@@ -1,0 +1,3 @@
+# myjsonrepo
+
+Some plain text.
