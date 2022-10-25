@@ -7,3 +7,4 @@ Some plain text changes.
 
 Sub text lines.
 
+Değişiklik yapıldı.
